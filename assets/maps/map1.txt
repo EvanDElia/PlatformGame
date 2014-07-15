@@ -1,0 +1,601 @@
+D        E                       E       C
+D                            E           C
+D                                        C
+D         E                              C
+D         E                              C
+D             E                    E  EE C
+D   E                     EE       E     C
+D       EEE  EE                E E EE    C
+D              E                         C
+D            o             E  E          C
+D         E                              C
+D          E                         E   C
+D  E                                     C
+D                                      EEC
+D                   EE       EEE         C
+D                                        C
+D        E           E                   C
+D  E        EEE                          C
+D           o E         E                C
+D          E             E         E     C
+D       E     E        E                EC
+D                                     oE C
+D        EE             E                C
+D                       EE   E           C
+D                                        C
+D                  E              E      C
+D               E                        C
+D      E                  E              C
+D                                        C
+D   E                 E       E          C
+D                     EE            E    C
+D                         EEE       EE   C
+D               E                        C
+D                                        C
+D                    E                   C
+D           E          EE                C
+D   E                                    C
+D                                        C
+D                              E  E      C
+D           E                            C
+D     E EE                             E C
+D      E                              E  C
+D                    E       E       E   C
+D                                     E  C
+D           E                            C
+D                                  E     C
+D E                                      C
+D           E   E           EE           C
+D                        E             E C
+D                                    o   C
+D                                   o    C
+D                                        C
+D     E            E                     C
+D   E                                    C
+D                        E               C
+DE        EEE                            C
+D                   E                E   C
+D                                        C
+D                                        C
+D  E                                     C
+Do   E                        E          C
+D     E                      E           C
+D             E                  E    E  C
+D  E               E  E                EEC
+D E                            E         C
+D           EE        E      E       E EEC
+D   E    E                               C
+D  E                                     C
+D                                      EEC
+D  E           E           E   E         C
+D     EE  E                              C
+D                                        C
+D     E                                  C
+D            EE        E       EEE       C
+D                  E      E   E          C
+D             E                        E C
+D                                        C
+D       E                            E   C
+D       EE                               C
+D      o                                 C
+D                       EEE              C
+D                              E       EEC
+DE                       E               C
+D                                        C
+D       E          E    E      EEE       C
+D   EEEE                      E          C
+D    E                                   C
+D  o                                   E C
+D                                E       C
+D         E                              C
+D      E                                 C
+D                               E        C
+D        E       E                     E C
+D   E                    E               C
+DE    E               E                  C
+D     E               EE        E        C
+D    E                         EE      E C
+D    E      E     EEE                    C
+D                        E    E          C
+DEE           EE                       E C
+D                              E         C
+D                    E                   C
+D     E                         E        C
+DE              E                        C
+D                                        C
+D    E           E                       C
+D              o              E          C
+D         E                              C
+D        E           E        E  EE      C
+DE                                       C
+DE                     E                 C
+D   E                        E           C
+D           E    E                     E C
+D                                        C
+D   E         E          EE  E           C
+D EE                             E       C
+D                EE                      C
+D EE               E            E   E E  C
+D        E                               C
+D               E                        C
+D               E               E  EE  E C
+D                               E        C
+D               E                     E  C
+D                                        C
+D                      E   EEE         E C
+D EE    E EE              E      E       C
+D  E      E                              C
+D E                                      C
+D                                  E     C
+DE      E               E         EE     C
+D                 E                      C
+D                                   EEE  C
+D             E               E E        C
+D           E                    E       C
+D            E            E              C
+D                       o  E             C
+D                          E            EC
+D             E                          C
+D E EE                 E       E         C
+D                                        C
+D E  E                                   C
+D                                        C
+DEE         E                EE          C
+D                       EEE   E          C
+D                                        C
+D                 EE             E       C
+D                              o      E  C
+D                     E                  C
+D                 E       E              C
+D          E                   EE        C
+D             E                          C
+D         E                      EE      C
+D                   E      E             C
+D                                        C
+D        E         EEEE   E              C
+D                  E                  EE C
+D    E                                   C
+D           E                E        E  C
+D                                        C
+D              E           E             C
+D                           E            C
+D  EE E                             E    C
+D                                        C
+D             E     E E     E            C
+D                                        C
+D                    E             EE  EEC
+D                E                E      C
+D                                        C
+D                E                       C
+D     E                 E                C
+D         E                              C
+D  E  E                            E     C
+D                                        C
+D     E     E                            C
+D                                     E  C
+D                    E                   C
+D       EEE     E                   EE   C
+D         E                    E         C
+D     E   E                              C
+D                     E                  C
+D E      E          E       EEE          C
+D                                        C
+D                EE                      C
+D                                     EE C
+D                         E              C
+D                                        C
+D                            E           C
+D                   E              E     C
+D                 E           E          C
+D   EE    E  E               E           C
+D      E                              E  C
+D       E EE                             C
+D                         EE   E    E    C
+DE              E             E  E       C
+D     E                EE   E            C
+D                EE                      C
+D                      E                 C
+D   E                      E             C
+D              E                         C
+D  E                                     C
+D  E     E                      E        C
+D           EE                    E      C
+D                           E            C
+D          E   EEE E          E          C
+D                           o        EE  C
+D                                        C
+D              E      E                  C
+D                    E   E          E    C
+D                                 o      C
+D                             E          C
+D    E           EE                      C
+D                      E E               C
+D                                      E C
+D     E    E              E              C
+D EE  E   E            E                 C
+D                               E        C
+D                E                       C
+D              o   EE                    C
+D   E          EE                        C
+D                                        C
+D      E              E                  C
+D                   o         EE        EC
+D              E      E                  C
+D    E      EEEE                         C
+D                                        C
+D                              E      E  C
+D                     EE   E           E C
+D                               EE    E  C
+D         E                E    EE       C
+D             E      E                   C
+D                                        C
+DEEE                                     C
+D                           E  EEE       C
+D                 E                      C
+D  E        E E                         EC
+DEE                                      C
+D       E             EEE       E        C
+D                     EE            E    C
+D               E                        C
+D          E                        E    C
+D          E    E     E             E    C
+D        EEE                          EEEC
+D                                     o  C
+D    E               EEEE                C
+D                             E          C
+D                           o  E         C
+DEE                E     E         E     C
+DE                                       C
+D EE               EE                    C
+D                                   EEE  C
+DEEEE                                    C
+D                                     EE C
+D                                    o   C
+D      E                       EEE       C
+D         EE E                           C
+D        E                E              C
+D            EE       E                  C
+D     E             E             E  E   C
+D           E                         E  C
+D          EE                   E      E C
+D                                        C
+D     EE   E           E                 C
+DE                  E                    C
+DE  E    E                     E         C
+D         E                              C
+D             E                     E    C
+D         E                          E   C
+D     E               EEE                C
+D       EE   E E                      E  C
+D        E                              EC
+D EEE       E                      E     C
+D      E    EE                           C
+D     E  E                          EE   C
+D   E                E        EE     E   C
+D   EE                       E  E E      C
+D                                        C
+D            E    EE         E           C
+D EE                          E     EE   C
+D     E          EE                 E    C
+D               E               EE       C
+D                              o  E  E   C
+D                          E             C
+D                        o       E   E   C
+D           E                    E       C
+D       EE      E E            E      E  C
+D                E  E   EE  EEE          C
+D         E E                            C
+D                 E                 E    C
+D   EE                          E        C
+D                               EE      EC
+D                      E    E            C
+D                     E        EE        C
+D     E           E    E                 C
+D            EE        E   EE            C
+D EE                  E    E           EEC
+DE                                       C
+D                         E          E  EC
+D                             E        E C
+D     E     E                          E C
+D            EE                          C
+D EEEE         E                         C
+D       E                E        EE   E C
+D              E  EEE                    C
+DE               E E             E       C
+D         E                              C
+D       o                                C
+D                E                     EEC
+D                   E            EEE     C
+D          E                     E       C
+D                             EE         C
+D                   E                E  EC
+DE E                                  E  C
+D        E      EEE                      C
+D  E                                     C
+D          E        E                    C
+D E    E   E   E                         C
+D         E  EEEE          E             C
+D    E            E    E     EE          C
+D               E               E        C
+D                 EEEE  E     E          C
+D                           o            C
+D                             E          C
+D       E   E          EE    E           C
+D               E         E  E           C
+D      EEE      EEE            E EEE     C
+D           E                E           C
+D                 E      E          EEE  C
+D                      E                 C
+D   E                            EE      C
+D     EE                   EE          E C
+D           E             E              C
+D             EE          E              C
+DE                        E              C
+D    E      EEEE                         C
+D            o            EE             C
+D     EE                                 C
+D   E                                    C
+D                   E                    C
+D                 o       E              C
+D                              EE        C
+D             E     EE              E  E C
+D                  E                     C
+D   EEEEE     E                     EE  EC
+DE                   EEE        EE       C
+D    EEEE           EEE                 EC
+DE      EEEEE                  EE        C
+D E         E     E      E     E         C
+D                            o         E C
+D       EE                          E  EEC
+DEE                   EE  E        EE    C
+D                       E     EEE        C
+D              E  E                      C
+D         E         EE     E             C
+D                        o E E           C
+D                   E                   EC
+D        E   E                       E E C
+D   E E                 EE     E         C
+D  E   E      E               E          C
+D                   EE                   C
+D        EE   EE                       E C
+D                                       EC
+D  E                            E        C
+D                   E                    C
+D   EE                              E E  C
+D            E                      EE   C
+DE       E  E  EEE                       C
+D                                  E E   C
+D                               EE    E  C
+D   E                                    C
+D                                     E  C
+D   E                 E        E         C
+D  E                          E          C
+D             E     E          E         C
+D  E                                     C
+Do             E EE      E E             C
+D   EEEE        E                     E  C
+D                   E              EE    C
+D   E   E              E    E            C
+D                         oE             C
+DE    E        EE                E       C
+D E                     EE         EE   EC
+D                          EE      E     C
+D              EEEEE                 E   C
+D                       E                C
+D                     o                  C
+D                                     E  C
+DE               E            E          C
+D                E       EE              C
+D                                        C
+DE              E        EE              C
+D                          E             C
+D     EEEEE              E               C
+D             E  EE         E            C
+DE         E          E  E        E      C
+D EE                 E      E E          C
+D        EE                         EE   C
+D                     E               E EC
+D  E EE                  E               C
+DE             E                         C
+D         EE  E     EE          E  E  EE C
+D     E          E                 EE    C
+D     EE E             E  E           E  C
+DE     E EE     EEE       E        E     C
+DE                                       C
+D   E                             E E  EEC
+D             E       E                  C
+D            EE                     EE   C
+D         E       E     EE       E       C
+D         E   EE        E     E      E   C
+D                EE E EE EE       E      C
+D  E           E     E                   C
+D      E      E       EE            EE EEC
+DE      E                 E         E    C
+D                E            EEEE    E  C
+D    EE           E     EE EE            C
+D           E                            C
+D                                        C
+D        o              E              EEC
+D                    E              E    C
+D                                 o      C
+D                      E E               C
+D     E  EE    E       EEEEEEE     E     C
+D                E            EEE        C
+D       EE                   E E   E     C
+D  E EEEE                         EE     C
+D                                o       C
+D                     E E                C
+D        E   EEE          EE             C
+D                        o  EE           C
+D            EE     EE       EEEE        C
+D              E   E         E  E        C
+D              EE                 E      C
+DEE  E   E           E       E           C
+D  EE        E          E                C
+D      E    E                        E   C
+D  E                     EE              C
+D    EE                                  C
+D          E                             C
+DE                  EE     EE           EC
+D    E            EE           E         C
+DEE                              E   E EEC
+D                 EE         E           C
+D     EE        EE     EE                C
+D EE         E   E      E                C
+D             E  E                      EC
+D          E         EE  E               C
+D       E           EE   EEEEEE          C
+D    E       EE                          C
+D           o           EE               C
+D              EEEEEEE                   C
+D                        EE     EEE     EC
+DEE    E E       EE          E      E    C
+D                   EEEEE           EEE  C
+D      E            EEE   EE             C
+D       EE             E          EE     C
+D                                        C
+D            EE    E      E  E E  E      C
+D                   E             EE     C
+D                                   E    C
+D      E EEEEE           EE              C
+DEE                                      C
+D    EE        E  E                      C
+D                  E      E E            C
+D   EE    EE                   E   EE E  C
+D            E          E                C
+D   EE        E    E               EE    C
+D           E                           EC
+D                 EE       E             C
+D             EE                         C
+D     EE       E                         C
+D            o E                   E   E C
+D     E           E                      C
+D                               E        C
+D                EE      E               C
+D         EE       E                    EC
+DE   EE        EE          E   E     E  EC
+D  EE      E         E                   C
+D          E   EE                        C
+D            E     EEE                   C
+D                     E       EE    E  EEC
+D                                   EEE  C
+D                                   o    C
+D             E                          C
+D            EE                  EE      C
+D  EE   E  E   EE         E    E  E  EE  C
+D              E                        EC
+D                  E            E       EC
+D          E             E            E  C
+D                                 E      C
+D                 EE       E             C
+D                EEE                E E  C
+D                   E                  EEC
+DE  E     E   EE               EE        C
+D                              EE  EEE  EC
+DE EE            E                       C
+D              o       EE      EE   E    C
+DEEE               EEEE   EE             C
+D                        o   E     EE   EC
+D                                        C
+D                           E            C
+DE             E                         C
+D                E                       C
+D                                        C
+D           E   E   EE  E                C
+D      E E       E           EE       E  C
+D       E    E       E         E   E     C
+D    EEE     E              E            C
+D     EEEE              E       E       EC
+D        E     E      E          E   E   C
+D                      E        EE       C
+D         E                         E  E C
+D                                        C
+D                 E  EE                  C
+D        EE   E  E      E      E      E  C
+D          E                   E       EEC
+DEE   E    E E                      EEEEEC
+DEE                               E  E   C
+D                                  o   EEC
+D               E       EEEEEEE          C
+D       E        E  E          E     E   C
+DE                E                      C
+D                                     EEEC
+D    EEE E                               C
+D     EEEEE           E    EEEE          C
+D             E    E              E    E C
+D    E                   E   E        E  C
+D     EEE                  E           E C
+D EE       E             E  EE           C
+D        EEE                             C
+D        oEEE                            C
+D EE               E           EE        C
+D   E                                 E  C
+DEEE        E     EE EE                  C
+D    EEEE      E                         C
+D       E           EEE   E      EE      C
+D       EEEE      E       EEE   EEE  EE  C
+D     EEE             E        EEE       C
+D              E                  E      C
+D       E                              E C
+DE            EEE                        C
+D                E     E  E              C
+D       E   E        E   EEEE      EEE   C
+D               EE                  E E  C
+D                EEEE                    C
+D                E              E        C
+D   E EE                 EE       E      C
+D                  E              E      C
+D                                        C
+DEE EEE       E                          C
+D           o      E            E EE  E  C
+DEEE EE  E              EEEEEE   E  EE   C
+D  E                          EE   E     C
+DEEE  E                                  C
+D   o  E    E E     EEEEE                C
+D     EE          E E EE                 C
+D        E       E  E E   E              C
+D         EEEE              EEEE    E    C
+D    E             E      E   EE     EE  C
+D E         E              EE      E E   C
+D               EEE         E            C
+D E  E    EE E           E     EE        C
+D     E   E   EE      E                 EC
+D              E          E             EC
+D            E      EE                   C
+D             EE         E   EE  EE     EC
+DE                                     E C
+D EEE          EE                 EE     C
+D                 EE            E  E     C
+D       E     E                          C
+D           o                EEE         C
+D E                      E          E    C
+D    EEEE           EEE EEE             EC
+D   EEEEEEEEE   E                        C
+D      EE      EE EEE      E             C
+D                                  EE    C
+D           EEEEE       E                C
+D       E     EEE        E         EEEE  C
+D    EEE                  EEEE    EE     C
+D            EE             E            C
+D         E             E      EE E      C
+D                EE                      C
+D    E       E             EE   EE       C
+D   E          EEEE                     EC
+D EEEEEEE E                E     E   E   C
+DE  E        EE           EEEEEE         C
+D      E         E                       C
+D  EEE            E                      C
+DEE    EE  E                      EE     C
+D      E   EEE         E    EE        E  C
+D     E     EEEEE       EE            E  C
+D                EE    EEE   E E         C
+DE                          E            C
+D                     EEEE               C
+D  E                          EE    E EE C
+D                    E            E E    C
+D   EE   EE      EEEE                    C
+DEEEEE                     EE       E    C
+D    EEE               EEE  E       EE   C
+D   EEEEE EE             EE E            C
+D                     E           EE     C
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
