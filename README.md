@@ -5,4 +5,4 @@ the top but the level is rendered randomly each time so you never know what your
 
 Download
 ============
-To download and play the game simply download the compressed .zip file. This file contains an executable jar file and a copy of the game's assets. Simply extract both the jar and the assets folder into the same directory and then run the jar.
+To download and play the game simply download the .jar file and the assets folder. Once both are downloaded place them in the saem directory and then run the executable jar file. You're computer should enter full screen mode and the game should begin to run!
